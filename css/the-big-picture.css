@@ -30,10 +30,11 @@ body {
   background-size: cover;
 }
 
-li {
+li  {
 font-family: 'Graduate',  sans-serif;
-font-size: 19px;}
+font-size: 18px;}
 
-.navbar navbar-inverse navbar-fixed-bottom {
-font-family: '0pen Sans',  sans-serif;
-font-size: 19px;}
+a.navbar-brand {
+font-family: 'Graduate',  sans-serif;
+font-size: 17px;
+height: 65px;}
