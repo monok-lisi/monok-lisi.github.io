@@ -5,25 +5,25 @@
  */
 
 
-@font-face {
-  font-family: 'Graduate';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Graduate'), local('Graduate-Regular'), url(http://fonts.gstatic.com/s/graduate/v4/xBquLOzic3rRbJsTs3BiEPesZW2xOQ-xsNqO47m55DA.woff2) format('woff2');
-}
+/* @font-face { */
+/*   font-family: 'Graduate'; */
+/*   font-style: normal; */
+/*   font-weight: 400; */
+/*   src: local('Graduate'), local('Graduate-Regular'), url(http://fonts.gstatic.com/s/graduate/v4/xBquLOzic3rRbJsTs3BiEPesZW2xOQ-xsNqO47m55DA.woff2) format('woff2'); */
+/* } */
 
-body {
-	margin-top: 50px;
-	margin-bottom: 50px;
-	margin-left: 100px;
-	margin-right: 100px;
-	background: none;
-}
+/* body { */
+/* 	margin-top: 50px; */
+/* 	margin-bottom: 50px; */
+/* 	margin-left: 100px; */
+/* 	margin-right: 100px; */
+/* 	background: none; */
+/* } */
 
-.full {
-  background: url(../imag/lisimaco.jpg) no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
+/* .full { */
+/*   background: url(../imag/lisimaco.jpg) no-repeat center center fixed; */
+/*   -webkit-background-size: cover; */
+/*   -moz-background-size: cover; */
+/*   -o-background-size: cover; */
+/*   background-size: cover; */
+/* } */
